@@ -12,7 +12,7 @@ var title_en = "Title in English"
 
 # Detalhes dos créditos do seu jogo
 var credits_pt = """
-Criado por: [Seu nome!]
+Criado por: [n4om1]
 
 Você pode preencher o resto deste campo com creditos de assets utilizados, links para sua redes sociais ou qualquer outro detalhe que ache relevante
 """
